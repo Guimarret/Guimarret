@@ -1,5 +1,4 @@
 ### Hi there 👋
-</br>
 
 Currently working on [EVT](https://evtit.com/) as Data Engineer, Back-end Developer in [He4rtSquad](https://github.com/he4rt) projects and studying GraphQL and SOLID.. </br>
 Im Brazilian and currently live in São Paulo, idk what to tell you about me but i love music and cats. </br>
