@@ -1,8 +1,2 @@
-### Hi there 👋
-
-Currently working at [EVT](https://evtit.com/) as Data Engineer, studying Julia and Rust</br>
-Im Brazilian and currently live in São Paulo, idk what to tell you about me but i love music and cats. </br>
-I’m always looking to collaborate on open source projects, especially Linux and PHP.</br>
-If want some help please send in guimarret@gmail.com even if idk how to help we'll find some way. :))</br>
-If for any reason you are interest in what im listening, [here](https://open.spotify.com/playlist/37i9dQZF1EpkdgSsl16sqj?si=7011309960c14dd5) is the spotify playlist.
-
+###Hi!
+  My name is Guilherme and I am a Data Engineer at EVT. In my free time, I study Julia and Rust and enjoy contributing to open source projects, particularly in Linux and Python. If you have a project that could use my assistance, please don't hesitate to reach out to me at guimarret@gmail.com. I'm always looking for new opportunities to learn and grow.
