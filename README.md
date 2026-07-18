@@ -1,5 +1,5 @@
 ### Hi!
 
-  My name is Guilherme, and I am a passionate Data Engineer. When not building data pipelines and managing cloud infrastructure, I dive into the world of Rust. I enjoy contributing to open-source projects, particularly in Python. If you have an exciting project or need assistance, please contact me at guimarret@gmail.com. I'm always eager to learn, grow, and collaborate on new opportunities.
+  My name is Guilherme, and I am a passionate Data Engineer. Outside of work, I write about what I learn at guimarret.com, covering things like neural networks, computer architecture, and NLP. I also produce and edit videos and I'm slowly working through Mandarin.
 
-Feel free to explore my repositories and get in touch!
+On the coding side, I contribute to open-source Python projects and use Rust for smaller personal builds.
